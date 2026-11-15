@@ -1,12 +1,8 @@
-# Redactie
+# Niet meer gebruiken
 
-Eén site, vier adressen. Netlify vier keer koppelen aan deze repo, elk met een eigen domein.
+De redactie staat in vier aparte repo's:
 
-| Domein | Onderdeel |
-|---|---|
-| feitcode.boaportaal.nl | Feitcodes |
-| beslisboom.boaportaal.nl | Beslisbomen |
-| vakjargon.boaportaal.nl | Vakjargon |
-| trainer.boaportaal.nl | Trainer |
-
-De site kiest het onderdeel aan de hand van het domein. Er is geen aparte repo per adres.
+- https://github.com/jjjoshua3/boa-feitcode
+- https://github.com/jjjoshua3/boa-beslisboom
+- https://github.com/jjjoshua3/boa-vakjargon
+- https://github.com/jjjoshua3/boa-trainer
